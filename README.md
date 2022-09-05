@@ -1,2 +1,2 @@
 # descricao_machine_learning
-Aqui irei desenvolver de forma teórica um projeto de machine learning, descrevendo os conceitos principais de um projeto de aprendizado de máquina. Para isso irei fazer uso do jupyter notebook e linguagem de programação python.
+Aqui irei desenvolver de forma teórica um projeto de machine learning, descrevendo os conceitos principais de um projeto de aprendizado de máquina. Para isso irei fazer uso do jupyter notebook e da linguagem de programação python. Para realizar a inicialização desse arquivo basta realizar o download do arquivo .ipynb iniciá-lo a partir do jupyter notebook, google colab ou outro de sua preferência. 
